@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\Microservice12\\Microservice12.csproj",
+      "projectUniqueName": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\DevOpsSolution\\Microservice12\\Microservice12.csproj",
       "projectName": "Microservice12",
-      "projectPath": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\Microservice12\\Microservice12.csproj",
+      "projectPath": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\DevOpsSolution\\Microservice12\\Microservice12.csproj",
       "packagesPath": "C:\\Users\\rgunjp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\Microservice12\\obj\\",
+      "outputPath": "C:\\Users\\rgunjp\\source\\repos\\CompleteDevOps\\DevOpsSolution\\Microservice12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

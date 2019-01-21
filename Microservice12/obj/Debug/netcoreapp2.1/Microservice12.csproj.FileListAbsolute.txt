@@ -1,0 +1,14 @@
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\bin\Debug\netcoreapp2.1\Microservice12.deps.json
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\bin\Debug\netcoreapp2.1\Microservice12.runtimeconfig.json
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\bin\Debug\netcoreapp2.1\Microservice12.runtimeconfig.dev.json
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\bin\Debug\netcoreapp2.1\Microservice12.dll
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\bin\Debug\netcoreapp2.1\Microservice12.pdb
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.csprojAssemblyReference.cache
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.csproj.CoreCompileInputs.cache
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.RazorAssemblyInfo.cache
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.RazorAssemblyInfo.cs
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.AssemblyInfoInputs.cache
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.AssemblyInfo.cs
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.RazorTargetAssemblyInfo.cache
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.dll
+C:\Users\rgunjp\source\repos\CompleteDevOps\Microservice12\obj\Debug\netcoreapp2.1\Microservice12.pdb
